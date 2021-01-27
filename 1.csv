@@ -1,3 +1,3 @@
-id	availability	description	link	title	price	condition	brand	size	color	item_group_id	custom_label_0	custom_label_1	custom_label_2
-1000957_1_style	in stock	Description	https://www.facebook.com	TestItem1	1.00 EUR	new	TestBrand	STD STD	1000957	""	""	""
-1000959_1_style	in stock	Description	https://www.facebook.com	TestItem2	1.00 EUR	new	TestBrand	STD STD	1000959	""	""	""
+id	availability	description	link	title	price	condition	brand	size	color	item_group_id
+1000957_1_style	in stock	Description	https://www.facebook.com	TestItem1	1.00 EUR	new	TestBrand	M	STD	1000957
+1000959_1_style	in stock	Description	https://www.facebook.com	TestItem2	1.00 EUR	new	TestBrand	M 	STD	1000959
